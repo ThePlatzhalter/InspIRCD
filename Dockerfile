@@ -1,4 +1,4 @@
-ROM debian:jessie
+FROM debian:jessie
 
 MAINTAINER Platzhalter <platzhalter@sigaint.org>
 
